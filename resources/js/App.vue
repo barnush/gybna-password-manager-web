@@ -1,3 +1,3 @@
 <template>
-  <h1>GYBNA!</h1>
+    <RouterView />
 </template>
